@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
     return (
-        <div class= 'bg-indigo-500 text-slate-50'>
+        <div class= 'text-white bg-gray-900 body-font'>
             <nav>
             <ul class= 'flex justify-end space-x-4 p-4 '>
                 <li><a href="/portfolio">Portfolio</a></li>
