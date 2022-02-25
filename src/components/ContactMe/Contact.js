@@ -7,10 +7,10 @@ export default function Contact() {
                 name="contact"
                 className="lg:w-1/2 md:w-1/3 px-5 py-10 mx-auto text-center mb-20">
                 <h2 className="text-slate-800 sm:text-4xl text-3xl mb-1 font-medium title-font">
-                    Hire Me
+                    Let's Connect!
                 </h2>
                 <p className="leading-relaxed mb-5">
-                    Let's connect! Please email me with any inquiries.
+                    Please email me with any inquiries.
                 </p>
                 <div className="relative mb-4">
                     <label htmlFor="email" className="leading-7 text-sm text-slate-800">
