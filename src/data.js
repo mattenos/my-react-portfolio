@@ -5,23 +5,23 @@ export const projects = [
       description:
         "This group of developers integrated a third-party API that allows users to search streaming services for a specific movie. Technologies include Tailwind CSS, Node.js, npm, Insomnia, Heroku, Javascript, MySQL, handlebars.js, and Git.",
       image: "../images/cinemagic.png",
-      link: "https://cinemajik.herokuapp.com/",
+      link: "https://github.com/rwashi690/Cinemagic",
     },
     {
       title: "The Ultimate Urban Dictionary",
       subtitle: "Fetch API and Local Storage",
       description:
         "In this project, our group of developers integrated multiple APIs to allow users to search different terms to retrieve multiple definitions as well as a .gif to help explain the search term. Technologies used include HTML/CSS, Bootstrap, Javascript, and jQuery.",
-      image: "",
-      link: "https://rwashi690.github.io/Urban_Dictionary_and_Memes/",
+      image: "./proj_1.png",
+      link: "https://github.com/rwashi690/Urban_Dictionary_and_Memes",
     },
     {
-      title: "JavaScript Quiz",
-      subtitle: "JavaScript and Local Storage",
+      title: "Quizzle",
+      subtitle: "React.js, GraphQL, and MongoDB",
       description:
-        "Test your knowledge of Javascript with the coding quiz built with HTML/CSS Bootstrap, and Javascript.",
+        "A flexible app to build and share study tools",
       image: "",
-      link: "https://mattenos.github.io/coding-quiz/",
+      link: "https://github.com/mattenos/quizzle",
     },
     {
       title: "Random Password Generator",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "This password generator presents the user with a series of prompts for password criteria. WHen all prompts are answered, a password is generatored based on the selected criteria. This app was built with HTML/CSS and Javascript.",
       image: "",
-      link: "https://mattenos.github.io/password-generator/",
+      link: "https://github.com/mattenos/password-generator",
     },
   ];
 

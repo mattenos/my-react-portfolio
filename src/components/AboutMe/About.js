@@ -6,16 +6,14 @@ export default function About() {
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-slate-800">
-                    Welcome to My Webpage.
+                        Welcome to My Webpage.
                         <br className="hidden lg:inline-block mt-4" />
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        My name is Matt. I am a programming professional looking to work with a growing company.
+                        My name is Matt. I am a full-stack web developer with a focus on building impactful front-end experiences on the web.
                         I am currently searching to work for a company that will
                         allow me
-                        to utilize my strong interpersonal communication skills, coding experience, and ability to quickly
-                        learn
-                        and apply new skills to build performant products.
+                        to utilize my background in project management, strong interpersonal communication skills, and coding experience to build accessible and performant products.
                     </p>
                     <div className="flex justify-center">
                         <a
