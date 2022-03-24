@@ -17,7 +17,7 @@ export const projects = [
     },
     {
       title: "Quizzle",
-      subtitle: "React.js, GraphQL, and MongoDB",
+      subtitle: "MERN Stack with GraphQL",
       description:
         "A flexible app to build and share study tools",
       image: "",
