@@ -8,7 +8,7 @@ function Header() {
                 <li><a href="#projects">Portfolio</a></li>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="https://drive.google.com/file/d/10rpgqFy0s0wwuDEXxLYe4Fqf1rCzCmNL/view?usp=sharing" download="Matt_Enos_Tech_Resume">Resume</a></li>
+                <li><a href="https://drive.google.com/file/d/1BYrX8Lcd47qxC5luCUnvwwH4F3-QJu-2/view?usp=sharing" download="Matt_Enos_Tech_Resume">Resume</a></li>
             </ul>
             </nav>
         </div>
