@@ -19,7 +19,7 @@ export const projects = [
       title: "Quizzle",
       subtitle: "MERN Stack with GraphQL",
       description:
-        "A flexible app to build and share study tools",
+        "A flexible app to build and share study tools. This app securely stores your account data and created tools. Our team worked with new technologies like GraphQL, MongoDB Atlas, and React to build the project.",
       image: "",
       link: "https://github.com/mattenos/quizzle",
     },
@@ -33,4 +33,4 @@ export const projects = [
     },
   ];
 
-export const skills = ['HTML/CSS', 'JavaScript', 'React', 'Git/GitHub', 'MERN', 'MySQL']
+export const skills = ['HTML5/CSS3', 'JavaScript ES6+', 'React', 'Git/GitHub', 'Node and Express', 'SQL and NoSQL', 'REST, JSON, and GraphQL', 'MongoDB']
