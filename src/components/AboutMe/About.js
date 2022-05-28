@@ -10,7 +10,7 @@ export default function About() {
                         <br className="hidden lg:inline-block mt-4" />
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        My name is Matt. I am a full-stack web developer with a focus on building impactful front-end experiences on the web.
+                        My name is Matt. I am a full stack web developer with a focus on building impactful front-end experiences on the web.
                         I am currently searching to work for a company that will
                         allow me
                         to utilize my background in project management, strong interpersonal communication skills, and coding experience to build accessible and performant products.
