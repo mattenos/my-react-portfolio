@@ -33,4 +33,4 @@ export const projects = [
     },
   ];
 
-export const skills = ['HTML5/CSS3', 'JavaScript ES6+', 'React', 'Git/GitHub', 'Node.js and Express', 'SQL and NoSQL Databases', 'REST, JSON, and GraphQL', 'Java SE 8 and Spring Boot']
+export const skills = ['HTML5/CSS3', 'JavaScript ES6+', 'React', 'Git/GitHub', 'Node.js and Express', 'SQL and NoSQL Databases', 'REST API Design', 'Java SE 8, Spring Boot, Mockito']
